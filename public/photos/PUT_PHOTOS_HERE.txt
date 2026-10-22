@@ -1,0 +1,6 @@
+Add your own images here using these filenames:
+her.jpg
+us.jpg
+first-memory.jpg
+favourite-day.jpg
+ordinary-day.jpg
